@@ -29,3 +29,25 @@ Please note that the repository is a work in progress, and updates will be made 
 
 Feel free to explore the code and provide any feedback or suggestions.
 
+## References
+
+Please find below the references for the research papers and implementations related to the Missile Guidance Using Reinforcement Learning project:
+
+1. "Missile Guidance and Control Against Maneuvering Targets Using Deep Reinforcement Learning" by Arijit Bhowmik, Twinkle Tripathy, and Tushar Sandhan.
+
+2. "Continuous Control with Deep Reinforcement Learning" by Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. Google DeepMind.
+
+3. "Computational Missile Guidance: A Deep Reinforcement Learning Approach" by Shaoming He, Hyo-Sang Shin, and Antonios Tsourdos. Beijing Institute of Technology and Cranfield University.
+
+4. "Proximal Policy Optimization Algorithms" by John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. OpenAI.
+
+5. "High-Dimensional Continuous Control using Generalized Advantage Estimation" by John Schulman, Philipp Moritz, Sergey Levine, Michael I. Jordan, and Pieter Abbeel. University of California, Berkeley.
+
+### Implementations:
+
+1. [Continuous Action State PPO Algorithm implementation](https://github.com/nric/ProximalPolicyOptimizationContinuousKeras)  By [nric](https://github.com/nric/ProximalPolicyOptimizationContinuousKeras/commits?author=nric)
+
+2. [DDPG Algorithm TensorFlow Implementation](https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLearning) By [philtabor](https://github.com/philtabor/Youtube-Code-Repository/commits?author=philtabor)
+
+Please refer to these sources for further details on the research papers and implementations related to the project.
+
